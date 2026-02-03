@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.6">
   <diagram name="Halaman-1" id="AuWLPUcUztZ1g7AWRhms">
-    <mxGraphModel dx="484" dy="277" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1090" dy="624" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -159,9 +159,6 @@
         <mxCell id="EOgEupY34AniiNt_3pwD-80" edge="1" parent="1" source="EOgEupY34AniiNt_3pwD-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="EOgEupY34AniiNt_3pwD-69">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EOgEupY34AniiNt_3pwD-81" edge="1" parent="1" source="EOgEupY34AniiNt_3pwD-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="EOgEupY34AniiNt_3pwD-73">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="EOgEupY34AniiNt_3pwD-82" edge="1" parent="1" source="EOgEupY34AniiNt_3pwD-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="EOgEupY34AniiNt_3pwD-74">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -171,7 +168,7 @@
         <mxCell id="EOgEupY34AniiNt_3pwD-84" edge="1" parent="1" source="EOgEupY34AniiNt_3pwD-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="EOgEupY34AniiNt_3pwD-71">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EOgEupY34AniiNt_3pwD-85" edge="1" parent="1" source="EOgEupY34AniiNt_3pwD-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="EOgEupY34AniiNt_3pwD-70">
+        <mxCell id="EOgEupY34AniiNt_3pwD-85" edge="1" parent="1" source="EOgEupY34AniiNt_3pwD-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="EOgEupY34AniiNt_3pwD-70">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1250" y="450" />
@@ -194,9 +191,6 @@
         <mxCell id="EOgEupY34AniiNt_3pwD-72" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" value="Crud promo code" vertex="1">
           <mxGeometry height="60" width="120" x="1390" y="490" as="geometry" />
         </mxCell>
-        <mxCell id="EOgEupY34AniiNt_3pwD-73" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" value="Kelola User" vertex="1">
-          <mxGeometry height="60" width="120" x="1280" y="225" as="geometry" />
-        </mxCell>
         <mxCell id="EOgEupY34AniiNt_3pwD-74" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" value="Crud Product" vertex="1">
           <mxGeometry height="60" width="120" x="1455" y="420" as="geometry" />
         </mxCell>
@@ -204,7 +198,7 @@
           <mxGeometry height="60" width="120" x="1390" y="350" as="geometry" />
         </mxCell>
         <mxCell id="EOgEupY34AniiNt_3pwD-76" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" value="Crud brand" vertex="1">
-          <mxGeometry height="60" width="120" x="1310" y="300" as="geometry" />
+          <mxGeometry height="60" width="120" x="1300" y="255" as="geometry" />
         </mxCell>
         <mxCell id="EOgEupY34AniiNt_3pwD-86" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;USE CASE E-Commers&lt;/b&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="280" x="1255" y="60" as="geometry" />
